@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.1499e272.css",
+    "main.js": "/MyPortfolio/static/js/main.6f8388ff.js",
+    "static/media/Calculator.jpg": "/MyPortfolio/static/media/Calculator.83cc0244930255b54e05.jpg",
+    "static/media/cnv2.jpg": "/MyPortfolio/static/media/cnv2.c6ed15c25950838dd63e.jpg",
+    "static/media/third.png": "/MyPortfolio/static/media/third.32f4a013a745314dd3c1.png",
+    "static/media/mp.jpg": "/MyPortfolio/static/media/mp.b0e4058df045c25cf5e8.jpg",
+    "static/media/emailad.jpg": "/MyPortfolio/static/media/emailad.b10b07f065d63739c10a.jpg",
+    "static/media/stma.jpg": "/MyPortfolio/static/media/stma.8fb27147abd915c94b88.jpg",
+    "static/media/Stelios Trimis CV.pdf": "/MyPortfolio/static/media/Stelios Trimis CV.f2b81c16483778be1757.pdf",
+    "index.html": "/MyPortfolio/index.html",
+    "main.1499e272.css.map": "/MyPortfolio/static/css/main.1499e272.css.map",
+    "main.6f8388ff.js.map": "/MyPortfolio/static/js/main.6f8388ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1499e272.css",
+    "static/js/main.6f8388ff.js"
+  ]
+}
